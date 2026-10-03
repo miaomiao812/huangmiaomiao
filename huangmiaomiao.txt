@@ -1,4 +1,4 @@
-（2026年10.3更新）说明,#genre#
+（2026年10.3更新github）说明,#genre#
 老播放器需要手动切换exo/ijk,https://live.ottiptv.cc/huya/11352879
 
 另一个轮播（m3u8）,#genre#
