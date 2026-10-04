@@ -1,5 +1,6 @@
-（2026年10.3更新github）说明,#genre#
-老播放器需要手动切换exo/ijk,https://live.ottiptv.cc/huya/11352879
+❤️(gihub)关注公众号：喵星域,#genre#
+老播放器需要手动切换exo/ijk,http://74.91.26.218:82/live/cctv1hd.m3u8
+26.10.4关注公众号不定期更新,http://74.91.26.218:82/live/cctv13hd.m3u8
 
 另一个轮播（m3u8）,#genre#
 潜伏,http://173.208.234.146/live/lbqf.m3u8
@@ -46,6 +47,9 @@
 红楼梦,https://live.ottiptv.cc/yy/1382745084
 大秦赋,http://cfss.cc/cdn/huya/23903130.flv
 漫长季节,http://cfss.cc/cdn/huya/11342393.flv
+白鹿原(2017),http://cfss.cc/cdn/huya/11342416.flv
+开端,http://cfss.cc/cdn/huya/11342397.flv
+雪豹,http://cfss.cc/cdn/huya/29580970.flv
 康熙微服,http://cfss.cc/cdn/huya/11342418.flv
 新水浒传,http://cfss.cc/cdn/huya/11342384.flv
 新三国演义,http://cfss.cc/cdn/huya/11352944.flv
@@ -62,21 +66,22 @@
 复仇者联盟全季,https://live.ottiptv.cc/yy/1354936167
 漫威,https://live.ottiptv.cc/yy/1354930233
 
-沈腾-西红柿首富/飞驰人生/一念天堂,http://cfss.cc/cdn/huya/11601968.flv
+沈腾-西红柿首富/飞驰人生/一念天堂/独行月球/满江红/,http://cfss.cc/cdn/huya/11601968.flv
 黄渤-疯狂的赛车/杀生/西游降魔/无人区,http://cfss.cc/cdn/huya/11352876.flv
-喜剧专场-天下无贼/非常勿扰2008/,http://cfss.cc/cdn/huya/11602044.flv
+喜剧专场-天下无贼/非常勿扰2008/疯狂的赛车/缝纫机乐队/,http://cfss.cc/cdn/huya/11602044.flv
 刘德华,http://cfss.cc/cdn/huya/11342424.flv
 周星驰,http://cfss.cc/cdn/huya/11336587.flv
 周星驰,http://cfss.cc/cdn/huya/11342412.flv
 古天乐,http://cfss.cc/cdn/huya/11602041.flv
 王晶,http://cfss.cc/cdn/huya/11602058.flv
+诺兰-盗梦空间/,http://cfss.cc/cdn/huya/30080257.flv
 强森-速度与激情,http://cfss.cc/cdn/huya/21059581.flv
 杰森斯坦频道,http://cfss.cc/cdn/huya/21059588.flv
 外国片-黑衣2/,http://cfss.cc/cdn/huya/21059577.flv
 美剧-特别小组（2025年）,http://cfss.cc/cdn/huya/11342403.flv
 比天堂还美丽（韩剧）（2025）,http://cfss.cc/cdn/huya/21059567.flv
 
-❤️轮播剧场,#genre#
+❤️黄喵喵的轮播剧场,#genre#
 玄幻轮播,http://cfss.cc/cdn/huya/11342414.flv
 喜剧轮播,http://cfss.cc/cdn/huya/11352877.flv
 港片轮播,http://cfss.cc/cdn/huya/11602043.flv
@@ -88,7 +93,6 @@
 盗墓轮播,http://cfss.cc/cdn/huya/21059552.flv
 海盗轮播,http://cfss.cc/cdn/huya/21059595.flv
 推荐轮播,http://cfss.cc/cdn/huya/11602041.flv
-救援轮播,http://cfss.cc/cdn/huya/21059594.flv
 谍战轮播,http://cfss.cc/cdn/huya/21059585.flv
 战争轮播,http://cfss.cc/cdn/huya/21059592.flv
 小鬼头轮播,http://cfss.cc/cdn/huya/11352963.flv
@@ -111,10 +115,11 @@
 动作电影频道,http://cfss.cc/cdn/huya/11602077.flv
 搞笑喜剧频道,http://cfss.cc/cdn/huya/11342423.flv
 欢笑影院频道,http://cfss.cc/cdn/huya/11352894.flv
-国产悬疑频道,http://cfss.cc/cdn/huya/11342395.flv
+国产悬疑频道-消失的她/,http://cfss.cc/cdn/huya/11342395.flv
 快意江湖频道,http://cfss.cc/cdn/huya/11342435.flv
 龙岭迷窟频道,http://cfss.cc/cdn/huya/29465863.flv
 云南虫谷频道,http://cfss.cc/cdn/huya/11352898.flv
+乡村剧专区-乡村爱情故事,http://cfss.cc/cdn/huya/30080255.flv
 
 电视剧一频道,http://cfss.cc/cdn/huya/29465862.flv
 电视剧二频道,http://cfss.cc/cdn/huya/11336591.flv
@@ -122,10 +127,8 @@
 电视剧六频道,http://cfss.cc/cdn/huya/11352936.flv
 电视剧七频道,http://cfss.cc/cdn/huya/21059630.flv
 电视剧八频道,http://cfss.cc/cdn/huya/26355775.flv
-电视剧九频道,http://cfss.cc/cdn/huya/21059594.flv
-电视剧十频道,http://cfss.cc/cdn/huya/11336592.flv
 
-❤️埋堆堆,#genre#
+❤️黄喵喵的埋堆堆,#genre#
 西游记轮播,http://cfss.cc/cdn/huya/29465859.flv
 扫黄先锋频道,http://cfss.cc/cdn/huya/29465855.flv
 楚汉骄雄频道,http://cfss.cc/cdn/huya/29465854.flv
@@ -1653,7 +1656,6 @@ CGTN-英語新聞頻道,https://0472.org/hls/cgtna.m3u8
 西藏卫视,http://39.150.102.131:19901/tsfile/live/0111_1.m3u8
 新疆卫视,http://39.150.102.131:19901/tsfile/live/0110_1.m3u8
 兵团卫视,http://39.150.102.131:19901/tsfile/live/0017_6.m3u8
-
 
 
 
