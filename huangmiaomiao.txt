@@ -1,11 +1,10 @@
-❤️(gihub)关注公众号：喵星域,#genre#
+gihub❤️关注公众号：喵星域,#genre#
 老播放器需要手动切换exo/ijk,http://74.91.26.218:82/live/cctv1hd.m3u8
-26.10.4关注公众号不定期更新,http://74.91.26.218:82/live/cctv13hd.m3u8
+26.10.7关注公众号不定期更新,http://74.91.26.218:82/live/cctv13hd.m3u8
 
 另一个轮播（m3u8）,#genre#
 潜伏,http://173.208.234.146/live/lbqf.m3u8
 我的团长我的团,http://173.208.234.146/live/lbwdtz.m3u8
-亮剑,http://173.208.234.146/live/lbliangjian.m3u8
 武林外传,http://173.208.234.146/live/lbwlwz.m3u8
 庆余年,http://173.208.234.146/live/lbqingyunian.m3u8
 庆余年2,http://cfss.cc/cdn/huya/23740156.flv
@@ -55,6 +54,7 @@
 新三国演义,http://cfss.cc/cdn/huya/11352944.flv
 铁齿铜牙,http://cfss.cc/cdn/huya/11342396.flv
 雪中悍刀,http://cfss.cc/cdn/huya/11336592.flv
+亮剑,http://cfss.cc/cdn/huya/30080238.flv
 
 ❤️黄喵喵的电影,#genre#
 夏洛特烦恼,https://live.ottiptv.cc/yy/1354936201
@@ -162,7 +162,7 @@
 欢乐集结号3,https://live.ottiptv.cc/yy/1382736822
 憨豆先生,https://live.ottiptv.cc/yy/1354936239
 
-🚑央卫多线路01-澜露🚑,#genre#
+🚑央卫多线路01-LL🚑,#genre#
 CCTV1,http://home.amucn.net:8800/rtp/239.49.8.19:9614
 CCTV1,http://emby.xlangnan.cn:10316/rtp/239.254.200.45:8008
 CCTV1,http://wangfei.uno:9999/rtp/225.1.2.47:10276
@@ -1484,7 +1484,7 @@ CCTV17,http://x1x.bid:5146/rtp/239.3.1.151:8144
 重庆卫视,http://youngx.top:4022/rtp/233.18.204.100:5140
 
 
-🚚中央频道-澜露🚚,#genre#
+🚚中央频道-LL🚚,#genre#
 CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV1,http://118.193.115.2:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1,http://fuxin.yunjifei.top:999/tsfile/live/0001_1.m3u8?key=txiptv
